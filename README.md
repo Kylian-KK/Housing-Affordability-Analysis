@@ -91,11 +91,17 @@ Plain Text
 
 housing-affordability/
 ├── data/
+
 │   └── housing_data.csv
+
 ├── notebooks/
+
 │   └── housing_affordability_analysis.ipynb
+
 ├── images/
+
 │   └── housing-affordability.jpg
+
 └── README.md
 
 
@@ -127,10 +133,16 @@ Accessibility Description
 References
 
 [1] Pandas documentation
+
 [2] Matplotlib documentation
+
 [3] Seaborn documentation
+
 [4] Jupyter documentation
+
 [5] Statistics Canada Census Program
+
+
 
 Author
 
