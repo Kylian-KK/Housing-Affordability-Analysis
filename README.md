@@ -90,18 +90,19 @@ Plain Text
 
 
 housing-affordability/
+
 ├── data/
-
+│
 │   └── housing_data.csv
-
+│
 ├── notebooks/
-
+│
 │   └── housing_affordability_analysis.ipynb
-
+│
 ├── images/
-
+│
 │   └── housing-affordability.jpg
-
+│
 └── README.md
 
 
