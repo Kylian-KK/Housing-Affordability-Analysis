@@ -46,20 +46,15 @@ Results
 
 The project is designed to answer the following questions:
 
-1.
-How does housing affordability differ between Ontario and British Columbia?
+1.  How does housing affordability differ between Ontario and British Columbia?
 
-2.
-Which household types experience the highest housing-cost burden?
+2.  Which household types experience the highest housing-cost burden?
 
-3.
-Does the number of bedrooms appear to be associated with housing costs or affordability?
+3.  Does the number of bedrooms appear to be associated with housing costs or affordability?
 
-4.
-How are households distributed across the affordability categories?
+4.  How are households distributed across the affordability categories?
 
-5.
-Which socio-economic variables are most strongly associated with housing affordability?
+5.  Which socio-economic variables are most strongly associated with housing affordability?
 
 The main outputs are comparative visualizations showing the distribution of housing-cost-to-income ratios and the proportion of households in each affordability category. The notebook should include the exact numerical findings that support the final interpretation.
 
@@ -107,20 +102,15 @@ housing-affordability/
 
 How to Run the Project
 
-1.
-Clone or download the project repository.
+1.  Clone or download the project repository.
 
-2.
-Install the required Python libraries.
+2.  Install the required Python libraries.
 
-3.
-Place the dataset in the expected data/ directory.
+3.  Place the dataset in the expected data/ directory.
 
-4.
-Open the notebook in Jupyter Notebook or JupyterLab.
+4.  Open the notebook in Jupyter Notebook or JupyterLab.
 
-5.
-Run the cells in order from data loading to interpretation.
+5.  Run the cells in order from data loading to interpretation.
 
 A typical installation command is:
 
@@ -133,14 +123,6 @@ pip install pandas matplotlib seaborn jupyter
 
 Accessibility Description
 
-Use the following alternative text for the portfolio image:
-
-HTML
-
-
-alt="Housing affordability analysis comparing housing costs, household income and affordability categories in Ontario and British Columbia"
-
-
 
 References
 
@@ -149,9 +131,10 @@ References
 [3] Seaborn documentation
 [4] Jupyter documentation
 [5] Statistics Canada Census Program
+
 Author
 
-Kylian Kouda
+Kylian Kouda Kuete
 
 This project was developed as part of an academic portfolio in data analysis and applied data science.
 
